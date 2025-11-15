@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sahik+Jaman!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE2dTB1ZXB2ZWNra3h1MGJrbWhmNXV3NHA2N3NlczFubzlhMWN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" alt="Coding GIF" width="600"/>
+</div>
+
+<div align="center">
+  <h1>Hello World!!</h1>
+  <h3>Hey there, I'm Sahik Jaman! 👋</h3>
+  <p>Welcome to my GitHub Profile! 🚀</p>
 </div>
 
 <p align="center">
@@ -99,7 +105,7 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/hamasbajasahikaljaman" target="www.linkedin.com/in/hamasbajasahikaljaman">
+  <a href="https://www.linkedin.com/in/hamasbajasahikaljaman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/sahikjaman" target="_blank">
@@ -113,4 +119,22 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   </a>
 </p>
 
-```
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
+</div>
