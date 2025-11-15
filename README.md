@@ -99,7 +99,7 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sahikjaman" target="www.linkedin.com/in/hamasbajasahikaljaman">
+  <a href="www.linkedin.com/in/hamasbajasahikaljaman" target="www.linkedin.com/in/hamasbajasahikaljaman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/sahikjaman" target="_blank">
@@ -108,25 +108,9 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <a href="mailto:sahikjaman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://sahikjaman.github.io" target="_blank">
+  <a href="https://sahikjaman.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ```
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-</div>
