@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sahik+Jaman!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sahik+Jaman!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahikjaman&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE2dTB1ZXB2ZWNra3h1MGJrbWhmNXV3NHA2N3NlczFubzlhMWN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" alt="Developer Animation" />
+</div>
+
+<br clear="both">
 
 ---
 
@@ -18,6 +26,8 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
 - 🎯 Goal: Contributing to open source and building impactful applications
 - ⚡ Fun fact: I turn coffee into code!
 
+<br clear="both">
+
 ---
 
 ## 🛠️ Tech Stack
@@ -25,11 +35,13 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
+
+<br clear="both">
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -40,6 +52,8 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+<br clear="both">
+
 ### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -48,6 +62,8 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
+<br clear="both">
+
 ### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -55,6 +71,8 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
+
+<br clear="both">
 
 ### 🔧 Tools & Technologies
 <p align="left">
@@ -65,6 +83,8 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
+<br clear="both">
+
 ---
 
 ## 📊 GitHub Stats
@@ -74,17 +94,23 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahikjaman&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahikjaman&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
+
+<br clear="both">
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahikjaman&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahikjaman&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
 </div>
+
+<br clear="both">
 
 ---
 
@@ -94,16 +120,24 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img src="https://github-profile-trophy.vercel.app/?username=sahikjaman&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
+<br clear="both">
+
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/hamasbajasahikaljaman" target="www.linkedin.com/in/hamasbajasahikaljaman">
+<div align="center">
+  <a href="https://www.linkedin.com/in/hamasbajasahikaljaman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/sahikjaman" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.gg/yourdiscord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:sahikjaman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -111,6 +145,48 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <a href="https://sahikjaman.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
-```
+<br clear="both">
+
+---
+
+## 🎮 Play With Me
+
+<div align="center">
+
+### 🐍 Snake Game
+<img src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/snake.svg" alt="Snake Game Animation" />
+
+<br clear="both">
+
+### 👾 Pac-Man
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<br clear="both">
+
+---
+
+## 💭 Developer Quotes
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br clear="both">
+
+---
+
+<div align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
+</div>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/sahikjaman">sahikjaman</a> with ❤️</i>
+</p>
