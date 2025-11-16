@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Sahik+Jaman!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahikjaman&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
 
 <br clear="both">
 
@@ -187,6 +184,3 @@ I'm a passionate developer who loves to create and innovate. I believe in writin
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
 </div>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/sahikjaman">sahikjaman</a> with ❤️</i>
-</p>
