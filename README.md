@@ -5,12 +5,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE2dTB1ZXB2ZWNra3h1MGJrbWhmNXV3NHA2N3NlczFubzlhMWN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" alt="Developer Animation" />
-</div>
-
-<br clear="both">
-
 ---
 
 ## 🚀 About Me
