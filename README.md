@@ -157,12 +157,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative solut
 <br clear="both">
 
 ---
-  <div align="center">
+
 ### Play game with me
 
 <img src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/snake.svg" alt="Snake Game Animation" />
-
-<br clear="both">
 
   <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/pacman-contribution-graph.svg">
 
