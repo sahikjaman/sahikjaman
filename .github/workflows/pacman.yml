@@ -1,9 +1,9 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
-  # Run automatically every 24 hours
+  # Run automatically every 24 hours at 12:30 UTC
   schedule:
-    - cron: "30 */24 * * *"
+    - cron: "30 12 * * *"
 
   # Allows manual trigger from GitHub Actions tab
   workflow_dispatch:
