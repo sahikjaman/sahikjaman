@@ -95,6 +95,35 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative solut
 
 ---
 
+## 🚀 Featured Projects & Repositories
+
+<div align="center">
+
+> **Explore my work and contributions**
+
+### 🎯 Pinned Repositories
+Check out my pinned repositories below to see what I'm currently working on and proud to showcase!
+
+### 💡 What I Build:
+- 🌐 **Full Stack Applications:** End-to-end web applications with modern tech stacks
+- 🤖 **Automation Tools:** Scripts and tools to improve developer productivity
+- 📚 **Learning Projects:** Experimental repos where I explore new technologies
+- 🎨 **UI/UX Showcases:** Beautiful, responsive interfaces and design systems
+- 🔧 **Open Source Contributions:** Contributing to the developer community
+
+### 📌 Repository Highlights:
+- **Profile Repository:** This special repo (`sahikjaman/sahikjaman`) that you're viewing now!
+- **Automated Workflows:** GitHub Actions that power the animated games
+- **Clean Code Philosophy:** All projects follow best practices and maintainable patterns
+
+Want to collaborate on a project? Feel free to reach out!
+
+</div>
+
+<br clear="both">
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -242,6 +271,60 @@ If games don't appear:
 - ✅ Verify the `output` branch exists
 - ✅ Make sure repository is public or you have proper permissions
 - ✅ Clear browser cache if images don't update
+
+---
+
+## 💖 Support & Contributions
+
+<div align="center">
+
+### Show Your Support
+
+If you find this profile template helpful or inspiring, please consider:
+
+⭐ **Starring this repository** - It helps others discover it!  
+🍴 **Forking and customizing** - Make it your own!  
+📢 **Sharing with others** - Spread the knowledge!  
+🐛 **Reporting issues** - Help improve the template!
+
+### 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to:
+- Report bugs or issues
+- Suggest new features or improvements
+- Submit pull requests
+- Share your customized version
+
+### 📜 License
+
+This project is **MIT Licensed** - feel free to use it for your own profile!
+
+### 🙏 Acknowledgments
+
+Built with ❤️ using:
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Platane's Snake Action](https://github.com/Platane/snk)
+- [Shields.io](https://shields.io/)
+- And many other amazing open-source projects!
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 Final Words
+  
+  **"The best way to predict the future is to create it."**
+  
+  Thank you for visiting my profile! Feel free to connect and collaborate.
+  
+  Made with 💜 by [Sahik Jaman](https://github.com/sahikjaman)
+  
+</div>
+
+<br clear="both">
 
 ---
 
