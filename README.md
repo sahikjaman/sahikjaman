@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+> **"Code is like humor. When you have to explain it, it's bad."** – Martin Fowler
 
 I'm a passionate **Full Stack Developer** dedicated to creating innovative solutions and writing clean, maintainable code. With a strong foundation in both frontend and backend technologies, I love turning complex problems into elegant solutions.
 
