@@ -162,9 +162,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative solut
 
 <img src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/snake.svg" alt="Snake Game Animation" />
 
-  <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/pacman-contribution-graph.svg">
 
-<br clear="both">
   <div align="center">
   **"The best way to predict the future is to create it."**
   
