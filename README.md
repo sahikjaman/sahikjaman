@@ -8,12 +8,6 @@
 
 <br clear="both">
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=sahikjaman&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/sahikjaman)
-  [![GitHub Followers](https://img.shields.io/github/followers/sahikjaman?label=Followers&style=for-the-badge&color=blue)](https://github.com/sahikjaman?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/sahikjaman?label=Stars&style=for-the-badge&color=yellow)](https://github.com/sahikjaman)
-  
 </div>
 
 <br clear="both">
