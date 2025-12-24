@@ -111,26 +111,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative solut
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahikjaman&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</div>
-
-<br clear="both">
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahikjaman&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br clear="both">
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -156,19 +136,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative solut
 
 <br clear="both">
 
----
-
-### Play game with me
-
-<img src="https://raw.githubusercontent.com/sahikjaman/sahikjaman/output/snake.svg" alt="Snake Game Animation" />
-
-
   <div align="center">
   **"The best way to predict the future is to create it."**
   
   Thank you for visiting my profile! Feel free to connect and collaborate.
-  
-  Made with 💜 by [Sahik Jaman](https://github.com/sahikjaman)
   
 </div>
 
